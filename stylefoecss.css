@@ -1,0 +1,25 @@
+div {
+    margin: 5px;
+}
+
+h1 {
+    color: blue;
+}
+
+.spantohide {
+    /* visibility: hidden; */
+
+}
+
+.p_to_hidden {
+    /* display: none; */
+    background-color: pink;
+}
+
+image {
+    width: 300px;
+}
+
+p {
+    color: red;
+}
